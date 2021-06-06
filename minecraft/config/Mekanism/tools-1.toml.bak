@@ -1,0 +1,235 @@
+
+#Mekanism Tools Config. This config is synced from server to client.
+[tools]
+
+	# Material Settings for steel
+	[tools.steel]
+		#Protection value of steel boots.
+		#Range: > 0
+		steelBootArmor = 3
+		#Attack speed of steel axes.
+		steelAxeAtkSpeed = -3.0
+		#Base armor toughness value of steel armor.
+		#Range: 0.0 ~ 3.4028234663852886E38
+		steelToughness = 1.0
+		#Protection value of steel chestplates.
+		#Range: > 0
+		steelChestplateArmor = 7
+		#Base attack damage of steel items.
+		#Range: 0.0 ~ 3.4028234663852886E38
+		steelAttackDamage = 3.0
+		#Attack speed of steel swords.
+		steelSwordAtkSpeed = -2.4000000953674316
+		#Maximum durability of steel paxels.
+		#Range: > 1
+		steelPaxelMaxUses = 1750
+		#Maximum durability of steel leggings.
+		#Range: > 1
+		steelLeggingDurability = 600
+		#Harvest level of steel paxels.
+		#Range: > 0
+		steelPaxelHarvestLevel = 3
+		#Attack damage modifier of steel paxels.
+		steelPaxelDamage = 4.0
+		#Attack damage modifier of steel pickaxes.
+		steelPickaxeDamage = 1.0
+		#Attack damage modifier of steel swords.
+		steelSwordDamage = 3.0
+		#Attack damage modifier of steel hoes.
+		steelHoeDamage = -4.0
+		#Attack speed of steel pickaxes.
+		steelPickaxeAtkSpeed = -2.799999952316284
+		#Maximum durability of steel tools.
+		#Range: > 1
+		steelToolMaxUses = 1561
+		#Protection value of steel leggings.
+		#Range: > 0
+		steelLeggingArmor = 6
+		#Natural enchantability factor of steel paxels.
+		#Range: > 0
+		steelPaxelEnchantability = 14
+		#Efficiency of steel tools.
+		steelEfficiency = 8.0
+		#Base armor knockback resistance value of steel armor.
+		#Range: 0.0 ~ 3.4028234663852886E38
+		steelKnockbackResistance = 0.0
+		#Maximum durability of steel helmets.
+		#Range: > 1
+		steelHelmetDurability = 440
+		#Maximum durability of steel shields.
+		#Range: > 0
+		steelShieldDurability = 1792
+		#Maximum durability of steel boots.
+		#Range: > 1
+		steelBootDurability = 520
+		#Attack speed of steel paxels.
+		steelPaxelAtkSpeed = -2.4000000953674316
+		#Attack damage modifier of steel axes.
+		steelAxeDamage = 1.5
+		#Attack damage modifier of steel shovels.
+		steelShovelDamage = 1.0
+		#Attack speed of steel shovels.
+		steelShovelAtkSpeed = -3.0
+		#Maximum durability of steel chestplates.
+		#Range: > 1
+		steelChestplateDurability = 640
+		#Efficiency of steel paxels.
+		steelPaxelEfficiency = 10.0
+		#Protection value of steel helmets.
+		#Range: > 0
+		steelHelmetArmor = 3
+		#Harvest level of steel tools.
+		#Range: > 0
+		steelHarvestLevel = 3
+		#Natural enchantability factor of steel items.
+		#Range: > 0
+		steelEnchantability = 10
+		#Attack speed of steel hoes.
+		steelHoeAtkSpeed = 1.0
+
+	# Material Settings for refined_glowstone
+	[tools.refined_glowstone]
+		#Attack speed of refined_glowstone paxels.
+		refined_glowstonePaxelAtkSpeed = -2.4000000953674316
+		#Protection value of refined_glowstone leggings.
+		#Range: > 0
+		refined_glowstoneLeggingArmor = 6
+		#Maximum durability of refined_glowstone shields.
+		#Range: > 0
+		refined_glowstoneShieldDurability = 806
+		#Attack speed of refined_glowstone axes.
+		refined_glowstoneAxeAtkSpeed = -3.0999999046325684
+		#Attack speed of refined_glowstone hoes.
+		refined_glowstoneHoeAtkSpeed = 2.0
+		#Base armor toughness value of refined_glowstone armor.
+		#Range: 0.0 ~ 3.4028234663852886E38
+		refined_glowstoneToughness = 0.0
+		#Maximum durability of refined_glowstone helmets.
+		#Range: > 1
+		refined_glowstoneHelmetDurability = 198
+		#Attack damage modifier of refined_glowstone pickaxes.
+		refined_glowstonePickaxeDamage = 1.0
+		#Maximum durability of refined_glowstone paxels.
+		#Range: > 1
+		refined_glowstonePaxelMaxUses = 450
+		#Attack speed of refined_glowstone swords.
+		refined_glowstoneSwordAtkSpeed = -2.4000000953674316
+		#Natural enchantability factor of refined_glowstone items.
+		#Range: > 0
+		refined_glowstoneEnchantability = 18
+		#Protection value of refined_glowstone chestplates.
+		#Range: > 0
+		refined_glowstoneChestplateArmor = 7
+		#Harvest level of refined_glowstone tools.
+		#Range: > 0
+		refined_glowstoneHarvestLevel = 2
+		#Attack speed of refined_glowstone shovels.
+		refined_glowstoneShovelAtkSpeed = -3.0
+		#Protection value of refined_glowstone helmets.
+		#Range: > 0
+		refined_glowstoneHelmetArmor = 3
+		#Maximum durability of refined_glowstone tools.
+		#Range: > 1
+		refined_glowstoneToolMaxUses = 250
+		#Attack damage modifier of refined_glowstone hoes.
+		refined_glowstoneHoeDamage = -5.0
+		#Efficiency of refined_glowstone paxels.
+		refined_glowstonePaxelEfficiency = 14.0
+		#Efficiency of refined_glowstone tools.
+		refined_glowstoneEfficiency = 11.0
+		#Harvest level of refined_glowstone paxels.
+		#Range: > 0
+		refined_glowstonePaxelHarvestLevel = 3
+		#Attack damage modifier of refined_glowstone axes.
+		refined_glowstoneAxeDamage = 1.5
+		#Maximum durability of refined_glowstone boots.
+		#Range: > 1
+		refined_glowstoneBootDurability = 234
+		#Maximum durability of refined_glowstone chestplates.
+		#Range: > 1
+		refined_glowstoneChestplateDurability = 288
+		#Attack damage modifier of refined_glowstone shovels.
+		refined_glowstoneShovelDamage = 1.0
+		#Attack speed of refined_glowstone pickaxes.
+		refined_glowstonePickaxeAtkSpeed = -2.799999952316284
+		#Attack damage modifier of refined_glowstone swords.
+		refined_glowstoneSwordDamage = 3.0
+		#Base armor knockback resistance value of refined_glowstone armor.
+		#Range: 0.0 ~ 3.4028234663852886E38
+		refined_glowstoneKnockbackResistance = 0.0
+		#Natural enchantability factor of refined_glowstone paxels.
+		#Range: > 0
+		refined_glowstonePaxelEnchantability = 22
+		#Attack damage modifier of refined_glowstone paxels.
+		refined_glowstonePaxelDamage = 3.0
+		#Maximum durability of refined_glowstone leggings.
+		#Range: > 1
+		refined_glowstoneLeggingDurability = 270
+		#Base attack damage of refined_glowstone items.
+		#Range: 0.0 ~ 3.4028234663852886E38
+		refined_glowstoneAttackDamage = 3.3
+		#Protection value of refined_glowstone boots.
+		#Range: > 0
+		refined_glowstoneBootArmor = 3
+
+	# Material Settings for lapis_lazuli
+	[tools.lapis_lazuli]
+		#Harvest level of lapis_lazuli paxels.
+		#Range: > 0
+		lapis_lazuliPaxelHarvestLevel = 2
+		#Attack speed of lapis_lazuli pickaxes.
+		lapis_lazuliPickaxeAtkSpeed = -2.799999952316284
+		#Maximum durability of lapis_lazuli shields.
+		#Range: > 0
+		lapis_lazuliShieldDurability = 582
+		#Protection value of lapis_lazuli helmets.
+		#Range: > 0
+		lapis_lazuliHelmetArmor = 2
+		#Attack damage modifier of lapis_lazuli paxels.
+		lapis_lazuliPaxelDamage = 6.0
+		#Efficiency of lapis_lazuli tools.
+		lapis_lazuliEfficiency = 5.0
+		#Base armor knockback resistance value of lapis_lazuli armor.
+		#Range: 0.0 ~ 3.4028234663852886E38
+		lapis_lazuliKnockbackResistance = 0.0
+		#Attack speed of lapis_lazuli hoes.
+		lapis_lazuliHoeAtkSpeed = -1.0
+		#Protection value of lapis_lazuli boots.
+		#Range: > 0
+		lapis_lazuliBootArmor = 2
+		#Efficiency of lapis_lazuli paxels.
+		lapis_lazuliPaxelEfficiency = 6.0
+		#Natural enchantability factor of lapis_lazuli paxels.
+		#Range: > 0
+		lapis_lazuliPaxelEnchantability = 10
+		#Attack speed of lapis_lazuli paxels.
+		lapis_lazuliPaxelAtkSpeed = -2.4000000953674316
+		#Attack damage modifier of lapis_lazuli pickaxes.
+		lapis_lazuliPickaxeDamage = 1.0
+		#Maximum durability of lapis_lazuli tools.
+		#Range: > 1
+		lapis_lazuliToolMaxUses = 200
+		#Protection value of lapis_lazuli leggings.
+		#Range: > 0
+		lapis_lazuliLeggingArmor = 6
+		#Attack speed of lapis_lazuli swords.
+		lapis_lazuliSwordAtkSpeed = -2.4000000953674316
+		#Attack damage modifier of lapis_lazuli axes.
+		lapis_lazuliAxeDamage = 6.0
+		#Maximum durability of lapis_lazuli leggings.
+		#Range: > 1
+		lapis_lazuliLeggingDurability = 195
+		#Maximum durability of lapis_lazuli boots.
+		#Range: > 1
+		lapis_lazuliBootDurability = 169
+		#Attack damage modifier of lapis_lazuli shovels.
+		lapis_lazuliShovelDamage = 1.5
+		#Attack damage modifier of lapis_lazuli swords.
+		lapis_lazuliSwordDamage = 3.0
+		#Base armor toughness value of lapis_lazuli armor.
+		#Range: 0.0 ~ 3.4028234663852886E38
+		lapis_lazuliToughness = 0.0
+		#Base attack damage of lapis_lazuli items.
+		#Range: 0.0 ~ 3.4028234663852886E38
+		lapis_lazuliAttackDamage = 2.0
+		#Maximum durability of lapis_lazuli paxels.
